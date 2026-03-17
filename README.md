@@ -54,6 +54,8 @@ In this vault, I am codifying the frameworks, financial principles, and cultural
 
 **4.6 - Security & Compliance:** Navigating the complexities of SOC2, GDPR, and HIPAA to ensure that technical speed never compromises user trust.
 
+**5. Engineering Leadership in AI Landscape** Coming soon
+
 _**The Resource Library**_
 
 _**Executive Reading List**_

@@ -8,7 +8,13 @@ In this vault, I am codifying the frameworks, financial principles, and cultural
 
 **1. The Human Element (People & Performance)**
 
-**1.1 - Effective 1:1s:** Moving beyond "status updates" to focus on career coaching, identifying blockers, and building long-term psychological safety.
+**1.1 - Effective 1:1s:** Moving beyond "status updates" to focus on career coaching, identifying blockers, and building long-term psychological safety. 
+[The Definitive Tactical Guide - Managers, Take Your 1:1 Meetings to the Next Level — First Round Review](https://review.firstround.com/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)
+This is widely considered the gold standard for engineering and tech leadership. It compiles six distinct "must-read" strategies from top Silicon Valley leaders.
+
+Key Concept: The "Sickness vs. Symptoms" approach. It teaches you how to identify systemic blockers (sickness) rather than just fixing immediate task issues (symptoms).
+
+Actionable Insight: It provides specific "blue sky" questions like "What’s harder than it should be?" to uncover friction in your team's deployment pipelines or cross-functional collaborations without sounding accusatory.
 
 **1.2 - Performance Reviews & Calibration** : Systems for assessing impact fairly across the organization while minimizing bias and rewarding high-leverage work.
 

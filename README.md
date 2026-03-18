@@ -43,54 +43,45 @@ In this vault, I am codifying the frameworks, financial principles, and cultural
 
 **The Core Pillars**
 
-**1. The Human Element (People & Performance)**
+**1. The Human Element (People & Performance) Effective 1:1s:** Moving beyond "status updates" to focus on career coaching, identifying blockers, and building long-term psychological safety. 
 
-  
-**Effective 1:1s:** Moving beyond "status updates" to focus on career coaching, identifying blockers, and building long-term psychological safety. 
 
-1.1.1 [The Definitive Tactical Guide - Managers, Take Your 1:1 Meetings to the Next Level — First Round Review](https://review.firstround.com/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)
 
-This is widely considered the gold standard for engineering and tech leadership. It compiles six distinct "must-read" strategies from top Silicon Valley leaders.
-Key Concept: The "Sickness vs. Symptoms" approach. It teaches you how to identify systemic blockers (sickness) rather than just fixing immediate task issues (symptoms).
+**[The Definitive Tactical Guide - Managers, Take Your 1:1 Meetings to the Next Level — First Round Review](https://review.firstround.com/managers-take-your-1-1s-to-the-next-level-with-these-6-must-reads/)**
+
+This is widely considered the gold standard for engineering and tech leadership. It compiles six distinct "must-read" strategies from top Silicon Valley leaders.  
+Key Concept: The "Sickness vs. Symptoms" approach. It teaches you how to identify systemic blockers (sickness) rather than just fixing immediate task issues (symptoms).  
 Actionable Insight: It provides specific "blue sky" questions like "What’s harder than it should be?" to uncover friction in your team's deployment pipelines or cross-functional collaborations without sounding accusatory.
 
-The Science of the "Developmental" 1:1
-
-[Make the Most of Your One-on-One Meetings](https://hbsp.harvard.edu/product/R2206L-PDF-ENG?activeTab=overview&itemFindingMethod=) — Harvard Business Review (Steven Rogelberg)
+**[Make the Most of Your One-on-One Meetings](https://hbsp.harvard.edu/product/R2206L-PDF-ENG?activeTab=overview&itemFindingMethod=) — Harvard Business Review (Steven Rogelberg)**
 Dr. Rogelberg is a leading organizational psychologist who has spent decades researching 1:1s. This article focuses on the "Emotional ROI" of these meetings.
 
 Key Concept: "The Meeting is for Them." It argues that if the manager dominates the agenda, the meeting fails. The research shows that high-performing teams have 1:1s where the direct report talks for 70–80% of the time.
 
 Actionable Insight: Shift from "How is Project X going?" to "What part of your role are you enjoying the most right now?" and "Where do you see yourself in two years?" to keep the focus on growth.
 
-The Psychological Safety Blueprint [1-1 Meetings and Psychological Safety — PsychSafety.com](https://psychsafety.com/psychological-safety-77-1-1-meetings/)  
+**[1-1 Meetings and Psychological Safety — PsychSafety.com](https://psychsafety.com/psychological-safety-77-1-1-meetings/)**  
 This deep dive explores the relationship between 1:1s and the "Psychological Safety" framework popularized by Amy Edmondson.
 
 Key Concept: Building a "Relational Foundation." It treats 1:1s as an investment in a trust "bank account" so that when a crisis hits (like a failed deployment or a missed target), the communication lines are already open and safe.
 
 Actionable Insight: Normalize "awkward" conversations by asking for feedback on your management style in every meeting. This lowers the power distance and makes it safer for them to admit mistakes.
 
-
-
-The "High-Growth" Framework
-
-[One-on-Ones That Drive Performance, Not Just Conversation — Lattice](https://lattice.com/ebooks/one-on-ones-for-performance)
+**[One-on-Ones That Drive Performance, Not Just Conversation — Lattice](https://lattice.com/ebooks/one-on-ones-for-performance)**
 As a tech executive, you likely appreciate data-driven coaching. Lattice’s research-backed guide focuses on aligning individual career goals with organizational ROI.
 
 Key Concept: The 1:1 as a "Career Accelerator." It moves beyond the current quarter to look at the "Long Arc" of an employee's career.
 
 Actionable Insight: Use a structured template that explicitly separates "Blockers" from "Growth." By having a dedicated section for "Career Coaching" in your shared doc, you ensure it never gets bumped by urgent tactical fixes.
 
-The Structural Consistency Method
-
-[The Manager Tools "Trinity" Guide to 1:1s](https://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-1)
+**[The Manager Tools "Trinity" Guide to 1:1s](https://www.manager-tools.com/2024/04/manager-tools-one-ones-updated-part-1)**
 Manager Tools has tracked over 100,000 managers to find what actually correlates with retention and results. Their approach is highly structured and disciplined.
 
 Key Concept: The 10/10/10 Rule. 10 minutes for their agenda, 10 minutes for your agenda, and 10 minutes for future coaching.
 
 Actionable Insight: "Never cancel, always reschedule." The guide argues that canceling a 1:1 is the fastest way to destroy psychological safety because it signals to the employee that their growth is your lowest priority. 
 
-
+  
 **1.2 - Performance Reviews & Calibration** : Systems for assessing impact fairly across the organization while minimizing bias and rewarding high-leverage work.
 
 
